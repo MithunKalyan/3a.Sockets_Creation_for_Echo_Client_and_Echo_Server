@@ -32,9 +32,9 @@ while True:
 ```
 
 ## OUTPUT
-![idle](https://github.com/user-attachments/assets/aeec4cb4-e256-4731-8c64-77bfc3d307af)
+![Screenshot 2025-04-16 092651](https://github.com/user-attachments/assets/fe2b031f-aafa-4d70-badd-938b09d0516f)
 
-![cmd](https://github.com/user-attachments/assets/ad6d0b7e-c105-4ec3-a7be-082b9ee9b496)
+![Screenshot 2025-04-16 092707](https://github.com/user-attachments/assets/70b42181-d08f-49c4-838f-2fc7f8935e69)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
